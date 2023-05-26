@@ -1,3 +1,3 @@
-#Easy Week 1
+#Easy 
 #Check whether a string is the same forwards and backwards (Palendrome)
-print("hi")
+string=str(input("Enter a string to check whether it is a palendrome "))
