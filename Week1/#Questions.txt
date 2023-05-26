@@ -1,0 +1,4 @@
+Easy: Check whether a string is the same forwards and backwards (Palendrome) 
+Medium: 
+Hard: 
+Unique: 
