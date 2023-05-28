@@ -1,14 +1,17 @@
 Easy: 
 Check whether a string is the same forwards and backwards (Palendrome) 
+
 Medium: 
 Give the smallest positive integer made of just 0s and 1s that is divisible by an input, n
 For example, if n is 34, the output should be 111010
 PCTC 2018 R2 Q9 https://pctc.cuttle.org/index.php?action=user_question&grq_id=231 
+
 Hard: 
 For a game, you throw darts into a board with 20 segments when the segment is the score. The 1st dart thrown gets double the score. 
 All darts go into one of the 20 segments. 
 It takes 2 inputs: The first integrer indicating the score (2 to 200). The second integer indicating the number of darts to be thrown. 
 Write a program to determine how many different ways a score can be obtained with a given number of drats.
 https://www.olympiad.org.uk/papers/2006/bio/bio06-exam.pdf 
+
 Unique: 
 Draw a simley face using matplotlib and numpy

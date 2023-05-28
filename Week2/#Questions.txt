@@ -1,0 +1,19 @@
+Easy: 
+Find the number of new unique letters required to go from one word to another. 
+You can duplicate a letter as many times as you would like to so ab can go to aaab without adding any new letters 
+https://pctc.cuttle.org/index.php?action=user_question&grq_id=105 
+For example, for abbcd to bccccdde, you would have to add e so the answer would be 1
+
+Medium:
+If a projectile starts from a position 0,0 find its x and y position after t seconds if it has a y velocity, vy and a x velocity vx
+Assume no drag and under the influence of gravity (where acceration = 9.8) and SI units
+Example, vx=10, vy=10, t=10, answer = 100,-390
+Then do this again except it allows for constant acceleration in x and y directions due to drag (assume no gravity)
+For 6th form:
+Then do this again except is allows for a rate of change of accerlation in x and y directions to model drag more accuratley
+
+Hard: 
+https://www.olympiad.org.uk/papers/1999/bio/bio99r1q1.html 
+
+Unique: 
+Compare 3 numbers and output the largest number. Do this in JavaScript or C++ if you know JavaScript
