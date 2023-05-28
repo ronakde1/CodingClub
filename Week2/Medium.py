@@ -1,4 +1,4 @@
-#part 3
+#part 1
 speedx=float(input("Enter speed x "))
 speedy=float(input("Enter speed y "))
 time=float(input("Enter time "))
