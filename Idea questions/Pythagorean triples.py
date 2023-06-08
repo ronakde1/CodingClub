@@ -4,7 +4,7 @@ x=0
 y=0
 matrix=[]
 pythagoras=[]
-for e in range(50):   
+for e in range(100):   
     matrix.append([x,y])
     while y>0:
         x+=1
@@ -16,6 +16,7 @@ for e in range(50):
             tempy=2*x*y
             #tempz=x**2+y**2
             pythagoras.append([tempx,tempy])
+            print([tempx,tempy])
 
     x+=1
     matrix.append([x,y])
@@ -28,12 +29,10 @@ for e in range(50):
             tempy=2*x*y
             #tempz=x**2+y**2
             pythagoras.append([tempx,tempy])
+            print([tempx,tempy])
     y+=1
-
-print(pythagoras)
-
 #for a,b in matrix:
     #plt.plot(a,b,".",color="black",markersize=5)
 for a,b in pythagoras:
-        plt.plot(a,b,".",color="blue",markersize=5)
+        plt.plot(a,b,".",color="blue",markersize=2)
 plt.show()
