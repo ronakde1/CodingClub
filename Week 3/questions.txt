@@ -1,0 +1,15 @@
+Simple: Printing the Number of Vowels in a Statement
+Create a program to print out the number of vowels in a string
+
+Medium: Printing Primes
+Take a number and print out that many primes from
+
+Hard: Solving Crypt-arithmetic Puzzle
+Solve this puzzle (where each letter represents a unique digit (0-9))
+  SEND
++ MORE
+= ------
+ MONEY
+
+ Unique: Fractal Tree
+Use turtles to draw a fractal tree to a given number of fractals
