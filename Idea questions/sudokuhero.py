@@ -1,3 +1,5 @@
+# Hard
+
 # Function to check if a given number 'num' can be placed at 'row' and 'col' in the Sudoku board
 def is_valid(board, row, col, num):
     # Check if 'num' is not already in the current row or column
